@@ -1,5 +1,3 @@
-# Front-End-Resume
-2019 front-End resume
  <center>
      <h1>黃靖雯 (Jing-Wen,Hwang)</h1>
      <div>
