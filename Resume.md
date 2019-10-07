@@ -71,28 +71,20 @@
        <th>專業技能</th><th>開發工具/環境</th>
         <tr>
             <td style="width: 450px;">
-                ★★★★★ HTML(pug)<br>
-                ★★★★☆ CSS(Sass、SCSS)<br>
+                ★★★★★ HTML / CSS / JavaScript<br>
+                ★★★★☆ Pug / Sass / SCSS<br>
                 ★★★★☆ jQuery<br>
-                ★★★☆☆ JavaScript/ Framework(Vue.js)<br>
+                ★★★☆☆ Vue.js<br>
                 ★★★☆☆ PHP<br>
-                ★★★☆☆ MySQL<br>
                 ★★★☆☆ Node.js<br>
                 ★★☆☆☆ Git / Github<br>
             </td>
             <td style="width: 450px; vertical-align:text-top;">
                -VSCode<br>
-               -npm<br>
+               -Linux<br>
                -Webpack<br>
                -API串接(Google、Firebase)<br>
                -CMS系統(WordPress、Joomla!)
             </td>
         </tr>
     </table>
-    
-## <img src="assets/portfolio.svg" width="30px"> 作品集
-<div>
-    <span style="width: 50%;">
-        <img src="assets/4.png" style="width: 440px;">
-    </span>
-</div>       
