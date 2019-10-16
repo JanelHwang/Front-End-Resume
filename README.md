@@ -2,11 +2,6 @@
      <h1>黃靖雯 (Jing-Wen,Hwang)</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             0956635621
-         </span>
-         ·
-         <span>
              <img src="assets/envelope-solid.svg" width="18px">
              <a href="mailto:jingwen.hwang@gamil.com">jingwen.hwang@gamil.com</a>
          </span>
@@ -15,9 +10,14 @@
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/JanelHwang">JanelHwang</a>
          </span>
+         .
+          <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="https://janelhwang.github.io/">作品集</a>
+         </span>
      </div>
  </center>
- <br>
+
  <div>
     　　在學期間致力於學習平面、網頁、程式設計等技能，擅長與使用者與開發人員溝通，重視畫面美觀與功能性，努力創造兩者兼具的作品。平時樂於學習新知識、喜歡與人分享，期許自己成為一名精通設計及程式開發的前端工程師。
  </div>
@@ -27,7 +27,7 @@
  - 女，1996 年 4 月出生
  - 居住地：高雄市鳳山區
  - 應徵職位：前端工程師
-  
+
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育背景
 
 - 學士，國立高雄科技大學，資訊管理系，2014.09~2018.06
@@ -46,7 +46,7 @@
    - 管理學院網站維護(後臺更新、UI更新、Banner設計、)[連結](http://management.nkmu.edu.tw/)
    - 文書資料處理
    - 活動攝影
-  
+
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 工作成就
 
 **2019年9月**
@@ -63,7 +63,13 @@
 
   設計網頁UI(RWD)、切版並增加CSS互動效果，減少網頁載入時間6秒，客製化元件(公告區、榮譽榜、前端登入...)，擔任網頁設計師的角色，與委託單位及IT部門合作完成。
 
+<br><br>
 
+<br>
+
+<br>
+
+<br>
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能列表
  <table  style="margin-left: auto; margin-right: auto;">
@@ -87,3 +93,12 @@
             </td>
         </tr>
     </table>
+
+## <img src="assets/license.svg" width="30px"> 證照與作品
+- 勞動部⼄級電腦軟體應⽤技術⼠
+- 勞動部丙級軟體應⽤技術⼠
+- 勞動部丙級網⾴設計技術⼠
+- 企業電⼦化助理規劃師
+- 調查與研究⽅法分析師
+- ERP軟體應⽤-配銷模組(鼎新)
+- TQC專案管理軟體應⽤Project 2007
