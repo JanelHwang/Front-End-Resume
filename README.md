@@ -62,15 +62,7 @@
   *HTML5、CSS互動效果(hover、animation、transition)、RWD、jQuery*
 
   設計網頁UI(RWD)、切版並增加CSS互動效果，減少網頁載入時間6秒，客製化元件(公告區、榮譽榜、前端登入...)，擔任網頁設計師的角色，與委託單位及IT部門合作完成。
-
-<br><br>
-
-<br>
-
-<br>
-
-<br>
-
+  
 ## <img src="assets/tools-solid.svg" width="30px"> 技能列表
  <table  style="margin-left: auto; margin-right: auto;">
        <th>專業技能</th><th>開發工具/環境</th>
