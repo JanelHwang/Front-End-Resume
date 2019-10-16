@@ -1,5 +1,4 @@
  <center>
-     <img src="assets/jingwen.jpg" width="130px" height="130px" style="border-radius: 50%; border: solid 1px #e8e8e8;">
      <h1>黃靖雯 (Jing-Wen,Hwang)</h1>
      <div>
          <span>
