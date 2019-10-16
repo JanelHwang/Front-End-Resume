@@ -1,11 +1,7 @@
  <center>
+     <img src="assets/jingwen.jpg" width="130px" height="130px" style="border-radius: 50%; border: solid 1px #e8e8e8;">
      <h1>黃靖雯 (Jing-Wen,Hwang)</h1>
      <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             0956635621
-         </span>
-         ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              <a href="mailto:jingwen.hwang@gamil.com">jingwen.hwang@gamil.com</a>
@@ -14,6 +10,11 @@
          <span>
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/JanelHwang">JanelHwang</a>
+         </span>
+         .
+          <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="https://janelhwang.github.io/">作品集</a>
          </span>
      </div>
  </center>
